@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-tauseef
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 Reach me via dev.tauseef@gmail.com
 
