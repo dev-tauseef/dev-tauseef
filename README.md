@@ -190,3 +190,17 @@ This developed strong understanding of:
 
 > I don’t just build features.  
 > I build systems that continue working when things go wrong.
+
+---
+
+## Need Help?
+
+If you're facing:
+
+- checkout issues
+- payment failures
+- broken systems
+
+I can help fix it.
+
+Open an issue or connect via LinkedIn.
