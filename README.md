@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Commerce%20%26%20Backend%20Systems-10B981?style=for-the-badge" />
+  <a href="https://github.com/dev-tauseef">
+    <img src="https://img.shields.io/badge/GitHub-dev--tauseef-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/dev-tauseef/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Tauseef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/devTauseef">
+    <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -197,10 +203,12 @@ This developed strong understanding of:
 
 If you're facing:
 
-- checkout issues
-- payment failures
-- broken systems
+- checkout issues  
+- payment failures  
+- broken systems  
 
 I can help fix it.
 
-Open an issue or connect via LinkedIn.
+📩 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/dev-tauseef/
+- X: https://x.com/devTauseef
